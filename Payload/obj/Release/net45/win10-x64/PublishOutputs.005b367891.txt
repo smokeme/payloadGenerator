@@ -1,0 +1,3 @@
+/opt/Generator/Payload/bin/Release/net45/win10-x64/publish/Payload.exe
+/opt/Generator/Payload/bin/Release/net45/win10-x64/publish/Payload.exe.config
+/opt/Generator/Payload/bin/Release/net45/win10-x64/publish/Payload.pdb

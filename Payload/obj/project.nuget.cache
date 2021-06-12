@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n/pqyBQw/1Km/kR2JvJYc5PJsdvf2aBCQEJfExGJiQdbHIsUe5wvUwsKWJRdjnDNHaDhrFQdcv2syo/MugsEEA==",
+  "success": true,
+  "projectFilePath": "/opt/Generator/Payload/Payload.csproj",
+  "expectedPackageFiles": [
+    "/home/kali/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.netframework.referenceassemblies.net45/1.0.0/microsoft.netframework.referenceassemblies.net45.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/opt/Generator/Payload/payload.csproj": {}
+  },
+  "projects": {
+    "/opt/Generator/Payload/payload.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/opt/Generator/Payload/payload.csproj",
+        "projectName": "payload",
+        "projectPath": "/opt/Generator/Payload/payload.csproj",
+        "packagesPath": "/home/kali/.nuget/packages/",
+        "outputPath": "/opt/Generator/Payload/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kali/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

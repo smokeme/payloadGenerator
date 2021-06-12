@@ -1,0 +1,8 @@
+/opt/Generator/Payload/bin/Release/net45/win10-x64/Payload.exe.config
+/opt/Generator/Payload/bin/Release/net45/win10-x64/Payload.exe
+/opt/Generator/Payload/bin/Release/net45/win10-x64/Payload.pdb
+/opt/Generator/Payload/obj/Release/net45/win10-x64/Payload.AssemblyInfoInputs.cache
+/opt/Generator/Payload/obj/Release/net45/win10-x64/Payload.AssemblyInfo.cs
+/opt/Generator/Payload/obj/Release/net45/win10-x64/Payload.csproj.CoreCompileInputs.cache
+/opt/Generator/Payload/obj/Release/net45/win10-x64/Payload.exe
+/opt/Generator/Payload/obj/Release/net45/win10-x64/Payload.pdb
